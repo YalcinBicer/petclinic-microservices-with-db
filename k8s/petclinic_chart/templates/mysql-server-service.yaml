@@ -9,5 +9,5 @@ metadata:
     io.kompose.service: mysql-server
   name: mysql-server
 spec:
- type: ExternalName
+  type: ExternalName
   externalName: petclinic.cdjd8uzbidbz.us-east-1.rds.amazonaws.com
